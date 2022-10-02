@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **monalgupta03/monalgupta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![@monalgupta03's Holopin board](https://holopin.io/api/user/board?user=monalgupta03)](https://holopin.io/@monalgupta03)
 
--->
