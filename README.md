@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - My HOLOPIN board:
-[![@monalgupta03's Holopin board](https://holopin.io/api/user/board?user=monalgupta03)](https://holopin.io/@monalgupta03)
+[![@monalgupta03's Holopin board]
+(https://holopin.io/api/user/board?user=monalgupta03)]
+(https://holopin.io/@monalgupta03)
 
