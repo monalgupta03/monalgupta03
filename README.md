@@ -1,15 +1,13 @@
-### Hi there 👋
+Hi there👋
 
-**monalgupta03/monalgupta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm monal, a junior pursuing B.Tech at IIT Delhi, India.
 
-Here are some ideas to get you started:
+I am a seasoned web developer with a passion for creating immersive online experiences. Interested in harnessing the power of 3.js, I specialize in bringing dynamic content to the web. My expertise extends to crafting seamless UI/UX designs that enhance user engagement.
 
-- 🌱 I’m currently learning DSA
-- 📫 How to reach me: monalmehal@gmail.com
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+In addition to my technical prowess, I have a keen interest in Blender, where I blend creativity with technology to deliver captivating digital experiences. With a solid background in both development and design, I am dedicated to pushing the boundaries of what is possible on the web.
+
+To reach me email at: monalmehal@gmail.com
+
 - My HOLOPIN board:
 [![@monalgupta03's Holopin board]
 (https://holopin.io/api/user/board?user=monalgupta03)]
