@@ -1,17 +1,16 @@
-Hi there👋
 
-I'm monal, a junior pursuing B.Tech at IIT Delhi, India.
+**`Heyyy there! Myself Monal Gupta. I'm a Software Developer`** 
 
-I am a seasoned web developer passionate about creating immersive online experiences. I am interested in harnessing the power of 3.js to bring dynamic content to the web. My expertise also extends to crafting seamless UI/UX designs that enhance user engagement.
+## About Me
+I'm a postgraduate student pursuing Computer Science at the University of Bristol, UK. I completed my Undergrad from the Indian Institute of Technology Delhi, India.
 
-In addition to my technical skills, I am keenly interested in Blender, where I blend creativity with technology to deliver captivating digital experiences. I am dedicated to pushing the boundaries of what is possible on the web.
+## Skill stack
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,typescript,nodejs,rust)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,linux,figma&theme=light)](https://skillicons.dev)
 
-Furthermore, I have recently started exploring blockchain technology and am excited about its potential to revolutionize various industries.
-
-To reach me email at: monalmehal@gmail.com
-
-- My HOLOPIN board:
-[![@monalgupta03's Holopin board]
-(https://holopin.io/api/user/board?user=monalgupta03)]
-(https://holopin.io/@monalgupta03)
-
+## Links
+LinkedIn: https://www.linkedin.com/in/monalgupta03
+<br>
+Email: monalgupta.bristol@gmail.com
+<br><br>
+My Holopin board: https://holopin.io/@monalgupta03
