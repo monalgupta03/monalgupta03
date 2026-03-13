@@ -1,6 +1,3 @@
-
-**`Heyyy there! Myself Monal Gupta. I'm a Software Developer`** 
-
 ## About Me
 I'm a postgraduate student pursuing Computer Science at the University of Bristol, UK. I completed my Undergrad from the Indian Institute of Technology Delhi, India.
 
