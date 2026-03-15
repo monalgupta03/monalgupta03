@@ -6,8 +6,8 @@ I'm a postgraduate student pursuing Computer Science at the University of Bristo
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,linux,figma&theme=light)](https://skillicons.dev)
 
 ## Links
-Personal Website: https://monalgupta03.github.io/    [In progress, feedback much appreciated :) ]
-<br>
+Personal Website: https://monalgupta03.github.io/    [In progress, feedback much appreciated :) - works best on chrome ]
+<br><br>
 Email: monalgupta.bristol@gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/monalgupta03
