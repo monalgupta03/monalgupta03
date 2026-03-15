@@ -6,10 +6,12 @@ I'm a postgraduate student pursuing Computer Science at the University of Bristo
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,linux,figma&theme=light)](https://skillicons.dev)
 
 ## Links
+Personal Website: https://monalgupta03.github.io/    [In progress, feedback much appreciated :) ]
+<br>
 Email: monalgupta.bristol@gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/monalgupta03
 <br>
 YouTube: https://youtube.com/@monalg03?si=tX3wYcfwwIK7qQ4r
 <br><br>
-My Holopin board: https://holopin.io/@monalgupta03
+Holopin board: https://holopin.io/@monalgupta03
